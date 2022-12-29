@@ -1,0 +1,11 @@
+
+	@font-face {
+		font-family: beer_money;
+		src: url(beer_money.ttf);
+
+	}
+	.box {
+		font-family: beer_money;
+		font-size: 100px;
+	}
+    
